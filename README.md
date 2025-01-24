@@ -81,6 +81,3 @@ Colab Notebooks:
 - [Notebook 1](https://colab.research.google.com/drive/1KIYzNSC-fNTM3LpjTn_LR9GOfsDSsh5M)
 - [Notebook 2](https://colab.research.google.com/drive/1bP63go-M911zAxueDBrYk3apteTUKjF7)
 - [Notebook 3](https://colab.research.google.com/drive/1bP63go-M911zAxueDBrYk3apteTUKjF7 )
-
-License:
-This project is licensed under the [MIT License](LICENSE).
